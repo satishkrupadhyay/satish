@@ -58,7 +58,7 @@ $(function () {
 
     //typed text
      $(".typed").typed({
-        strings: ["Satish Kr. Upadhyay", "Data Scientist"],
+        strings: ["Satish Upadhyay", "Program Manager"],
         typeSpeed: 50,
         backSpeed: 10,
         backDelay: 2000,
